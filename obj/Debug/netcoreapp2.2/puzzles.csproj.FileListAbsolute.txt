@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
